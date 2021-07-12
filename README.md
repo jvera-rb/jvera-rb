@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jvera-rb
+- 💞️ I’m working at Redbee
+- 📫 How to reach me jonathan.vera@redb.ee
